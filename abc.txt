@@ -3,3 +3,5 @@ change2 for master
 change for hotfix
 change latest
 new master changes
+new in new
+
