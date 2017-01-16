@@ -6,3 +6,4 @@ new master changes
 new in new
 
 Some Change 1
+Master changes
