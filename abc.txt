@@ -1,3 +1,4 @@
+Random Entry
 Change1
 change2 for master
 change for hotfix
@@ -11,4 +12,6 @@ Some Changes in hitFix
 some more changes
 amend
 additional content not from init
+additional content (init)
 -----------------------------------------------------
+
