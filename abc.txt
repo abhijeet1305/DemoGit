@@ -9,4 +9,5 @@ Some Change 1
 Master changes
 Some Changes in hitFix
 some more changes
+amend
 -----------------------------------------------------
