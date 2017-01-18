@@ -13,10 +13,6 @@ some more changes
 amend
 additional content not from init
 additional content (init)
-change1
-change2
-change3
-change4
-change5
+change 11
 -----------------------------------------------------
 
